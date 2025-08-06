@@ -34,4 +34,5 @@ package org.example.이론;
 // 2. 복잡한 JOIN, 서브쿼리가 많고 SQL 제어가 중요한 경우: MyBatis
 
 public class JAVA_DB {
+
 }

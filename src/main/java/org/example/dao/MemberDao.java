@@ -123,7 +123,7 @@ public class MemberDao {
             }
 
             if (updateEmail) {
-                pstmt.setString(parameterIndex++, member.getName());
+                pstmt.setString(parameterIndex++, member.getEmail());
             }
 
             pstmt.setInt(parameterIndex, member.getId());
